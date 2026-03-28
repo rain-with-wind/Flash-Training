@@ -1,0 +1,71 @@
+{
+  "users": {
+    "default_user": {
+      "atomic_skills": {
+        "as_001": {
+          "mastery": 1.0,
+          "last_practice_time": "2026-03-28 19:40:26",
+          "practice_count": 3,
+          "history": [
+            {
+              "timestamp": "2026-03-28 19:02:39",
+              "performance": 0.8,
+              "mastery": 0.24,
+              "time_interval": 0
+            },
+            {
+              "timestamp": "2026-03-28 19:35:06",
+              "performance": 6.3,
+              "mastery": 1.0,
+              "time_interval": 0.5408333333333334
+            },
+            {
+              "timestamp": "2026-03-28 19:40:26",
+              "performance": 9.0,
+              "mastery": 1.0,
+              "time_interval": 0.08888888888888889
+            }
+          ]
+        },
+        "as_002": {
+          "mastery": 1.0,
+          "last_practice_time": "2026-03-28 19:40:26",
+          "practice_count": 2,
+          "history": [
+            {
+              "timestamp": "2026-03-28 19:35:06",
+              "performance": 6.3,
+              "mastery": 1.0,
+              "time_interval": 0
+            },
+            {
+              "timestamp": "2026-03-28 19:40:26",
+              "performance": 9.0,
+              "mastery": 1.0,
+              "time_interval": 0.08888888888888889
+            }
+          ]
+        },
+        "as_003": {
+          "mastery": 1.0,
+          "last_practice_time": "2026-03-28 19:40:26",
+          "practice_count": 2,
+          "history": [
+            {
+              "timestamp": "2026-03-28 19:35:06",
+              "performance": 6.3,
+              "mastery": 1.0,
+              "time_interval": 0
+            },
+            {
+              "timestamp": "2026-03-28 19:40:26",
+              "performance": 9.0,
+              "mastery": 1.0,
+              "time_interval": 0.08888888888888889
+            }
+          ]
+        }
+      }
+    }
+  }
+}

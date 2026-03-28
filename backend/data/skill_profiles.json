@@ -1,0 +1,30 @@
+{
+  "user123": {
+    "沟通交流技能练习": {
+      "last_score": 60,
+      "difficulty": 6,
+      "practice_count": 2
+    }
+  },
+  "test_user": {
+    "沟通交流技能练习": {
+      "last_score": 60,
+      "difficulty": 6,
+      "practice_count": 1
+    }
+  },
+  "user": {
+    "沟通交流技能练习": {
+      "last_score": 60,
+      "difficulty": 6,
+      "practice_count": 3
+    }
+  },
+  "default_user": {
+    "演讲技能练习": {
+      "last_score": 90,
+      "difficulty": 9,
+      "practice_count": 2
+    }
+  }
+}
